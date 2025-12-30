@@ -1,60 +1,81 @@
 # Hi there 👋, I am Dzaki Repi Nugroho!
 
 **Backend Developer | Computer Science Student**
+
+---
+
 ## 📊 **GitHub Stats**
 ![Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
 **Followers**: 7 • **Stars**: 20
 
 ---
 
-## 🎓 **About Me**
-I am a **Bachelor's Degree (S1)** student currently pursuing my degree in **Computer Science** at Bina Sarana Informatika University in Karawang, West Java.
+## 🎯 **Professional Profile**
+I am a **backend developer** focused on developing **stable, structured, and easily scalable systems**. Currently pursuing a **Bachelor's Degree in Computer Science** at Bina Sarana Informatika University.
 
-As a passionate **Backend Developer**, I specialize in building robust server-side applications and APIs. My expertise lies in creating efficient, scalable, and secure backend systems that power modern web applications.
+With extensive experience in **building APIs, data processing, and database integration**, I specialize in creating the core foundation of applications. My expertise spans modern frameworks including **Laravel, CodeIgniter, ReactJS, Golang, and Python**.
+
+## 🏗️ **Development Philosophy**
+In the development process, I prioritize:
+- ✅ **Clean logic** and maintainable code architecture
+- ⚡ **Process efficiency** and performance optimization
+- 🔒 **Data security** and robust validation systems
+- 📊 **Relational database management** and transaction handling
+- 🚀 **Production-ready backend implementations**
+
+I have comprehensive experience managing **end-to-end data flow** from backend to frontend, implementing validation systems, and ensuring optimal performance under various load conditions.
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠 **Tech Stack & Expertise**
 
 ### **Backend Technologies**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **Databases**
+### **Databases & Data Management**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-FF6B6B?style=for-the-badge)
+![Data Transactions](https://img.shields.io/badge/Data_Transactions-4ECDC4?style=for-the-badge)
 
-### **Tools & Others**
+### **API Development**
+![REST API](https://img.shields.io/badge/REST_API-FF8E53?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-45B7D1?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-96CEB4?style=for-the-badge)
+
+### **Tools & Infrastructure**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![API Development](https://img.shields.io/badge/API-REST-FF6B6B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6A0572?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-118AB2?style=for-the-badge)
 
 ---
 
 ## 📈 **GitHub Activity**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_title=true&hide=prs&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)
 
 ---
 
-## 🚀 **Current Focus**
-- 🔭 Working on **RESTful APIs** and **Microservices Architecture**
-- 🌱 Learning **System Design** and **Cloud Infrastructure**
-- 👯 Looking to collaborate on **open-source backend projects**
-- 💬 Ask me about **PHP, Laravel, API Development, Databases**
-- 📫 How to reach me: [Your Email/LinkedIn]
-- ⚡ Fun fact: I enjoy optimizing database queries in my free time!
+## 🚀 **Core Competencies**
 
----
-
-## 📂 **Featured Projects**
-
-### 🔧 **Backend API Project**
-> A scalable REST API built with Laravel/Lumen
+### **API Development & Integration**
+```json
+{
+  "expertise": [
+    "RESTful API Design & Implementation",
+    "Third-party API Integration",
+    "Authentication & Authorization Systems",
+    "API Documentation (Swagger/Postman)",
+    "Microservices Architecture"
+  ]
+}
